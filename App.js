@@ -9,6 +9,7 @@ export default function App() {
     <SafeAreaProvider>
       <ForeignSplash>
       </ForeignSplash>
+      <StatusBar barStyle="light-content" />
     </SafeAreaProvider>
   );
 }
