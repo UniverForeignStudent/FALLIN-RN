@@ -4,6 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import {SafeAreaProvider} from 'react-native-safe-area-context';
 import ForeignSplash from './components/ForeignSplash';
 
+
 export default function App() {
   return (
     <SafeAreaProvider>

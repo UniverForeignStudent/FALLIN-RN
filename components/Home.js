@@ -12,7 +12,6 @@ export default function Home() {
              <View style={styles.searchbarSet}>
                 <View style={styles.searchBar}> 
                 <TextInput style={styles.search} placeholder="원하시는 커뮤니티를 찾아보세요"></TextInput>
-                
                 </View>
             </View>
         </View>
